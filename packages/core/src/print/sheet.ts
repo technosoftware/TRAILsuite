@@ -278,7 +278,7 @@ ${input.body}
 }
 
 /** Where the credit line points. Fixed rather than a setting: it names who makes the plugins. */
-export const SHEET_CREDIT_LINK = 'https://technosoftware.com';
+export const SHEET_CREDIT_LINK = 'https://johannhson.swiss';
 
 /**
  * The credit line under a sheet: who made it, when, with what, and where the

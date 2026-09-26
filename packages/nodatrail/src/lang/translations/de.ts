@@ -823,7 +823,7 @@ export const deTranslations: Translations = {
     export: 'Als Blatt exportieren',
     written: 'Blatt gespeichert unter {path}',
     failed: 'Das Blatt konnte nicht gespeichert werden.',
-    credit: 'Erstellt von {author} am {date} mit NODAtrail',
+    credit: 'Erstellt von {author} am {date}',
     creditAnonymous: 'Erstellt am {date} mit NODAtrail',
     truth:
       'Diese Seite ist ein Ausdruck des Journals zum Zeitpunkt der Erstellung. Massgeblich sind die Notizen im Vault: jede Zahl wird aus den Buchungen berechnet.',

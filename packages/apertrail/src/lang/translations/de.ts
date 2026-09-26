@@ -91,7 +91,7 @@ export const deTranslations: Translations = {
     sheetFailed: 'Das Kostenblatt konnte nicht geschrieben werden.',
     sheetCaveat:
       'Beträge so, wie die Notizen sie nennen. Umgerechnete Beträge nutzen die Kurse dieser Reise, also deine eigenen. Die Abrechnung teilt jede Buchung gleichmässig auf die genannten Personen auf.',
-    sheetFooter: 'Kostenblatt, erstellt von {author} am {date} mit APERtrail',
+    sheetFooter: 'Kostenblatt, erstellt von {author} am {date}',
     sheetFooterAnonymous: 'Kostenblatt, erstellt am {date} mit APERtrail',
     document: 'Beleg',
     stillEstimated: 'Noch Schätzungen',
@@ -173,7 +173,7 @@ export const deTranslations: Translations = {
     failed: 'Das Prospekt konnte nicht geschrieben werden.',
     caveat:
       'Reisenotizen, die Kabinen sind die Kategorien, in denen sie verkauft wird; was eine kostet, gehört zur Reise, die sie bucht. Massgeblich sind die Notizen.',
-    footer: 'Prospekt, erstellt von {author} am {date} mit APERtrail',
+    footer: 'Prospekt, erstellt von {author} am {date}',
     footerAnonymous: 'Prospekt, erstellt am {date} mit APERtrail',
   },
   tripDocument: {
@@ -212,7 +212,7 @@ export const deTranslations: Translations = {
     failed: 'Das Reisedokument konnte nicht geschrieben werden.',
     caveat:
       'Diese Seite ist ein Ausdruck der aktuellen Reisenotizen. Massgeblich sind die Notizen.',
-    footer: 'Reisedokument, erstellt von {author} am {date} mit APERtrail',
+    footer: 'Reisedokument, erstellt von {author} am {date}',
     footerAnonymous: 'Reisedokument, erstellt am {date} mit APERtrail',
   },
 
@@ -273,7 +273,7 @@ export const deTranslations: Translations = {
     failed: 'Das Buchungsblatt konnte nicht geschrieben werden.',
     caveat:
       'Diese Seite ist ein Ausdruck der aktuellen Reisenotizen zur Vorbereitung einer Buchung. Die Preise sind Planwerte, keine Angebote. Massgeblich sind die Notizen.',
-    footer: 'Buchungsblatt, erstellt von {author} am {date} mit APERtrail',
+    footer: 'Buchungsblatt, erstellt von {author} am {date}',
     footerAnonymous: 'Buchungsblatt, erstellt am {date} mit APERtrail',
   },
 
@@ -294,7 +294,7 @@ export const deTranslations: Translations = {
       button: 'Spickzettel',
       light: 'Licht',
       fileSuffix: 'Spickzettel',
-      footer: 'Spickzettel, erstellt von {author} am {date} mit APERtrail',
+      footer: 'Spickzettel, erstellt von {author} am {date}',
       footerAnonymous: 'Spickzettel, erstellt am {date} mit APERtrail',
       written: 'Spickzettel geschrieben nach {path}.',
       failed: 'Der Spickzettel konnte nicht geschrieben werden.',
